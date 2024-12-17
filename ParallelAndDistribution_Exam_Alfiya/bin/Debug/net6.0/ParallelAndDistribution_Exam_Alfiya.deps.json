@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ParallelAndDistribution_Exam_Alfiya/1.0.0": {
+        "runtime": {
+          "ParallelAndDistribution_Exam_Alfiya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParallelAndDistribution_Exam_Alfiya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
